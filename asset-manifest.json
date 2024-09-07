@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/employee-profile-list-management/static/css/main.fd2e2875.css",
+    "main.js": "/employee-profile-list-management/static/js/main.cc41c13c.js",
+    "static/js/453.f83bee41.chunk.js": "/employee-profile-list-management/static/js/453.f83bee41.chunk.js",
+    "static/media/slick.svg": "/employee-profile-list-management/static/media/slick.2630a3e3eab21c607e21.svg",
+    "static/media/slick.eot": "/employee-profile-list-management/static/media/slick.a4e97f5a2a64f0ab1323.eot",
+    "static/media/slick.ttf": "/employee-profile-list-management/static/media/slick.c94f7671dcc99dce43e2.ttf",
+    "static/media/slick.woff": "/employee-profile-list-management/static/media/slick.295183786cd8a1389865.woff",
+    "index.html": "/employee-profile-list-management/index.html",
+    "main.fd2e2875.css.map": "/employee-profile-list-management/static/css/main.fd2e2875.css.map",
+    "main.cc41c13c.js.map": "/employee-profile-list-management/static/js/main.cc41c13c.js.map",
+    "453.f83bee41.chunk.js.map": "/employee-profile-list-management/static/js/453.f83bee41.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.fd2e2875.css",
+    "static/js/main.cc41c13c.js"
+  ]
+}
